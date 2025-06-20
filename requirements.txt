@@ -1,13 +1,20 @@
-tensorflow
-pandas
-numpy
-scikit-learn
-matplotlib
+#tensorflow
+#pandas
+#numpy
+#scikit-learn
+#matplotlib
+#streamlit
+#scikeras
+#tensorboard
+#notebook
+#ipykernel
+
 streamlit
-scikeras
-tensorboard
-notebook
-ipykernel
+numpy
+pandas
+scikit-learn
+tensorflow
+
 
 
 
