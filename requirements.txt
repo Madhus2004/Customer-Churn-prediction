@@ -6,6 +6,8 @@ matplotlib
 streamlit
 scikeras
 tensorboard
+notebook
+ipykernel
 
 
 
